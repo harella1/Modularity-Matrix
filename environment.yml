@@ -2,3 +2,5 @@ name: python
 dependencies:
   - python=3.6
   - numpy
+  - pandas 
+  - matplotlib
